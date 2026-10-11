@@ -1,9 +1,6 @@
 # Keyword Extraction with KeyBERT
 
-This project finds the **most important words in a text** (its keywords), using **KeyBERT**, and tunes it to work as well as possible.
-
-It was a team project for the **Natural Language Processing** course at **Politecnico di Torino**.
-Author: **Alimohammad (Ali) Rahmatpour**.
+This project finds the **most important words in a text** (its keywords), using **KeyBERT**, and tunes it to work as well as possible. It was a team project for the **Natural Language Processing** course at **Politecnico di Torino**.
 
 ---
 
