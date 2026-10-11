@@ -1,0 +1,11 @@
+model,split,precision,recall,f1
+all-mpnet-base-v2,train,0.7912,0.7651,0.7738
+all-mpnet-base-v2,test,0.7889,0.7584,0.7686
+sentence-transformers/paraphrase-MiniLM-L6-v2,train,0.8004,0.7744,0.7831
+sentence-transformers/paraphrase-MiniLM-L6-v2,test,0.8013,0.7707,0.7809
+roberta-base,train,0.6977,0.6716,0.6803
+roberta-base,test,0.6888,0.6583,0.6684
+roberta-large,train,0.7234,0.6974,0.7061
+roberta-large,test,0.7206,0.6901,0.7003
+albert-base-v2,train,0.6991,0.6731,0.6817
+albert-base-v2,test,0.6964,0.6658,0.676

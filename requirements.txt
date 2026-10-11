@@ -1,0 +1,10 @@
+keybert
+sentence-transformers
+datasets
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tabulate
+tqdm

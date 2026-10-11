@@ -1,0 +1,3 @@
+split,precision,recall,f1
+train,0.2418,0.3875,0.2834
+test,0.2375,0.3957,0.2823

@@ -1,0 +1,5 @@
+match,split,precision,recall,f1
+exact,train,0.069,0.069,0.069
+exact,test,0.071,0.071,0.071
+partial,train,0.4249,0.4249,0.4249
+partial,test,0.4233,0.4233,0.4233
